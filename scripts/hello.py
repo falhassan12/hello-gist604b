@@ -2,7 +2,7 @@ GIST 604B - Open Source GIS
 Module 1 Assignment 3: GitHub Repository Management
 
 Student: Fadil Alhassan
-Date: 10/23/2025
+Date: October 23, 2025
 University of Arizona
 """
 
