@@ -28,3 +28,4 @@ This repository demonstrates GitHub skills including:
 To run the hello script:
 ```bash
 python scripts/hello.py
+🔗 Repository Link: https://github.com/falhassan12/hello-gist604b
